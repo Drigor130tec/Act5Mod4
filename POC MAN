@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=MyName
+Comment=My application which does this
+Icon=/home/drigor130/Descargas/Act5Mod4/sword.png
+Exec=/home/drigor130/Descargas/Act5Mod4/inicio_res.sh
+Type=Application
+Encoding=UTF-8
+Terminal=false
